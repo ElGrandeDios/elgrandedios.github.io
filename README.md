@@ -1,2 +1,2 @@
 Hi
-<button>click</button>
+<input type="button">click</button>
