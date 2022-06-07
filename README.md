@@ -1,2 +1,2 @@
 Hi
-<input type="button">click</input>
+<input type="button">Click Me!</input>
