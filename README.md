@@ -1,7 +1,7 @@
 <html>
 
 <head>
-    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">  
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
 </head>
 
 <body>
