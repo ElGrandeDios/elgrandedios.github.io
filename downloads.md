@@ -11,7 +11,7 @@ permalink: /downloads
 <body>
     <h1 class="x">Hello world!</h1>
     <p class="x">Welcome to my GitHub Pages site!</p>
-    <p class="x">I use this website to publicly publish my work. And I don't have a lot of other stuff to develop. Also I want to learn git, GitHub, and Web Development. Also, all this (GitHub, git, coding) is pretty cool and fun.</p>
+    <p class="x">I use this website to publicly publish my work. And I don't have a lot of other stuff to develop. Also I want to learn git, GitHub, and Web Development. Also, all this (GitHub, git, coding) is pretty cool and fun. :)</p>
     <button onclick="ClickMe()">Click Me!</button>
     <script src="script.js"></script>
 </body>
