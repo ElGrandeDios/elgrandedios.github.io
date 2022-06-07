@@ -1,6 +1,7 @@
 layout: page
 title: Sid's Apps
 permalink: /downloads
+Please ignore this text and why are you trying to copy the contents of this page./?
 <html>
 
 <head>
