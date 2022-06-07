@@ -7,7 +7,7 @@
 <body>
     <h1>Hello world!</h1>
     <p>Welcome to my GitHub Pages site!</p>
-    <button type="button">Click Me!</button>
+    <button onclick="ClickMe()">Click Me!</button>
 </body>
 
 </html>
