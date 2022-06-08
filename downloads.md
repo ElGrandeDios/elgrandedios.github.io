@@ -5,7 +5,7 @@ Please ignore this text and why are you trying to copy the contents of this page
 <html>
 
 <head>
-    <link rel="icon" type="image/x-icon" href="favicon.jpeg">
+    <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <link rel="stylesheet" href="styles.css">
 </head>
 
