@@ -1,3 +1,3 @@
-function ClickMe(){
-    alert("Hello World!");
+function redirect(TheWebPageToBeRedirectedTo){
+    window.location.href = "elgrandedios.github.io/"+TheWebPageToBeRedirectedTo;
 }
