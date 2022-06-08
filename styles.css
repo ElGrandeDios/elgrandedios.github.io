@@ -11,17 +11,17 @@ p{
 button.redirect{
     transition-duration: 0.4s;
     background-color: red;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
     border-radius: 12px;
     height: 275px;
     width: 275px;
-    font-size: 15px;
+    font-size: 100px;
     border: 5px solid #4CAF50; 
   }
   
   button.redirect:hover {
     background-color: #4CAF50; 
-    color: white;
+    color: rgb(0, 0, 0);
     cursor: pointer;
     font-size: 20px;
     box-shadow: 0 15px 26px 0 rgba(250, 247, 247, 0.705), 0 6px 20px 0 rgba(244, 242, 242, 0.19);
