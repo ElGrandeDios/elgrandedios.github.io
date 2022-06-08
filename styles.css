@@ -4,7 +4,7 @@ body{
 p{
     color: bisque;
 }
-:not(.x){
+/* :not(.x){
     color: rgb(42, 41, 41);
     font-weight: 2000;
-}
+} */
