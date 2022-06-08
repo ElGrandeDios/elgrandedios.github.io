@@ -1,3 +1,3 @@
-function redirect(TheWebPageToBeRedirectedTo){
-    window.location.href = "elgrandedios.github.io/"+TheWebPageToBeRedirectedTo;
+function redirectToDownloads(){
+    window.location.href = "elgrandedios.github.io/downloads";
 }
