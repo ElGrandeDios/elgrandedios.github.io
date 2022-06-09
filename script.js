@@ -1,3 +1,3 @@
 function redirect(pageToGoTo){
-    window.location.href = "https://elgrandedios.github.io/"+pageToGoTo;
+    window.location = "https://elgrandedios.github.io/"+pageToGoTo;
 }
