@@ -30,7 +30,7 @@ button.redirect:hover {
     box-shadow: 15px 15px 26px 26px rgba(250, 247, 247, 0.705), 6px 6px 20px 20px rgba(244, 242, 242, 0.19);
 }
 
-* {
+div,p,.x,button{
     margin: auto;
     width: 50%;
     border: 3px solid green;
