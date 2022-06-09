@@ -1,3 +1,3 @@
-function redirectToDownloads(){
-    window.location.href = "https://elgrandedios.github.io/downloads";
+function redirect(pageToGoTo){
+    window.location.href = "https://elgrandedios.github.io/"+pageToGoTo;
 }
