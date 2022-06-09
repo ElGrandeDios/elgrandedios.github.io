@@ -1,7 +1,7 @@
 layout: page
 title: Sid's Apps
 permalink: /downloads
-Please ignore this text and why are you trying to copy the contents of this page./?
+Please ignore this text and why are you trying to copy the contents of this page or whatever it is that youa are doing by selecting all the contents of this page./?
 <html>
 
 <head>

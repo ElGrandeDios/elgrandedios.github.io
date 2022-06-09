@@ -10,6 +10,7 @@
     <p class="x">Welcome to my website!</p>
     <p class="x">I use this website to publicly publish my work. And I don't have a lot of other stuff to develop. Also I want to learn git, GitHub, and Web Development. Also, all this (GitHub, git, coding) is pretty cool and fun.</p>
     <button class="redirect" onclick="redirect('downloads')">All Downloads</button>
+    <button class="redirect" onclick="redirect('me')">MEEE!!!</button>
     <script src="script.js"></script>
 </body>
 
