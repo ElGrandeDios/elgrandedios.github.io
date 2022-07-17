@@ -17,6 +17,7 @@
     <button class="redirect" onclick="redirect('me')">MEEE!!!</button>
     </div>
     <script src="script.js"></script>
+    <p>hhiufhhffhfhuwhfjfskdjfdhfihihsuihe</p>
 </body>
 
 </html>
