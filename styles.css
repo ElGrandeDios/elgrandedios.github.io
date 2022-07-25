@@ -30,9 +30,35 @@ button.redirect:hover {
     box-shadow: 15px 15px 26px 26px rgba(250, 247, 247, 0.705), 6px 6px 20px 20px rgba(244, 242, 242, 0.19);
 }
 
-div,.x,button{
+div,
+.x,
+button {
     margin: 0 auto;
 }
-div{
+
+div {
     white-space: pre;
+<<<<<<< HEAD
+=======
+}
+
+button.fourOfour {
+    transition-duration: 0.5;
+    transition: ;
+    /* opacity: 0; */
+    color: aliceblue;
+    border-radius: 275px;
+    height: fit-content;
+    width: fit-content;
+    font-size: large;
+    border: 5px solid red;
+}
+
+button.fourOfour:hover {
+    background-color: #4CAF50;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    font-size: 45px;
+    box-shadow: 15px 15px 26px 26px rgba(250, 247, 247, 0.705), 6px 6px 20px 20px rgba(244, 242, 242, 0.19);
+>>>>>>> parent of eaccaaa (Revert "x")
 }
