@@ -62,3 +62,13 @@ button.fourOfour:hover {
     box-shadow: 15px 15px 26px 26px rgba(250, 247, 247, 0.705), 6px 6px 20px 20px rgba(244, 242, 242, 0.19);
 >>>>>>> parent of eaccaaa (Revert "x")
 }
+
+a{
+    color: rgb(17, 105, 87);
+}
+
+a:hover{
+    color: rgb(17, 71, 122);
+    box-shadow: 15px 15px 26px 26px rgba(250, 247, 247, 0.705), 6px 6px 20px 20px rgba(244, 242, 242, 0.19);
+    
+}
