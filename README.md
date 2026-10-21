@@ -6,8 +6,8 @@
 </head>
 
 <body>
-    <h1 class="x">hi lol</h1>
-    <p class="x">sid here</p>
+    <h1 class="x"></h1>
+    <p class="x"><a href="sid-sad.html">fill the form</a></p>
     <p class="x"></p>
     
 </body>
